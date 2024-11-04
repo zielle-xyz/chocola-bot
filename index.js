@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["ticket to order", "buy now !"];
+const statusMessages = ["Watching ᓚᘏᗢ․  rivi shop"];
 
 
 let currentIndex = 0;
