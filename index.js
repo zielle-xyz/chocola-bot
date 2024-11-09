@@ -20,7 +20,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["Watching ᓚᘏᗢ․ rivi shop"];
-const statusTypes = [ 'online'];
+const statusTypes = [ 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
